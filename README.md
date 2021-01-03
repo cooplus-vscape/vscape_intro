@@ -14,7 +14,7 @@ Here is the resources:
 
   
 
-If you want to try VScape by yourself, you can download the docker image from  [server](todo).
+If you want to try VScape by yourself, you can download the docker image from  [server](todo) (todo).
 
 
 
