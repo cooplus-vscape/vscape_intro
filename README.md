@@ -14,7 +14,7 @@ Here is the resources:
 
 * CFI benchmark in paper: https://github.com/cooplus-vscape/CFIbenchmark
 
-If you want to try VScape by yourself, you can download the docker image from  [server](todo) (todo).
+If you want to try VScape by yourself, you can download the docker image from  [server](todo) (wait).
 
 
 
