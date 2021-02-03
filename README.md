@@ -12,7 +12,7 @@ Here is the resources:
 
 * VScape_analyzer: https://github.com/cooplus-vscape/vscape_analyzer (wait to open)
 
-  
+* CFI benchmark in paper: https://github.com/cooplus-vscape/CFIbenchmark
 
 If you want to try VScape by yourself, you can download the docker image from  [server](todo) (todo).
 
