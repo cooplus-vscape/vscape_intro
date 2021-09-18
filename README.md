@@ -8,7 +8,7 @@ Here is the resources:
 
 * Motivation_case:  https://github.com/cooplus-vscape/vscape_motivation_case
 
-* VScape_compiler: https://github.com/cooplus-vscape/vscape_compiler (wait to open)
+* VScape_compiler: https://github.com/cooplus-vscape/vscape_compiler
 
 * VScape_analyzer: https://github.com/cooplus-vscape/vscape_analyzer (wait to open)
 
