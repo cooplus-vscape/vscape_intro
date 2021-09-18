@@ -10,7 +10,7 @@ Here is the resources:
 
 * VScape_compiler: https://github.com/cooplus-vscape/vscape_compiler
 
-* VScape_analyzer: https://github.com/cooplus-vscape/vscape_analyzer (wait to open)
+* VScape_analyzer: https://github.com/cooplus-vscape/vscape_analyzer 
 
 * CFI benchmark in paper: https://github.com/cooplus-vscape/CFIbenchmark
 
